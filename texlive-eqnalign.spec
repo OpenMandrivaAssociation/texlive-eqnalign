@@ -1,6 +1,6 @@
 Name:		texlive-eqnalign
 Version:	43278
-Release:	1
+Release:	2
 Summary:	Make eqnarray behave like align
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eqnalign
